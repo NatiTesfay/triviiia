@@ -1,0 +1,35 @@
+let questions = [
+    {
+    question: "nati",
+    choice1: "25",
+    choice2: "20",
+    choice3: "28",
+    choice4: "2",
+    answer:1
+},
+    {
+    question: "avi",
+    choice1: "25",
+    choice2: "20",
+    choice3: "28",
+    choice4: "2",
+    answer:2
+},
+    {
+    question: "gabi",
+    choice1: "25",
+    choice2: "20",
+    choice3: "28",
+    choice4: "2",
+    answer:3
+},
+    {
+    question: "or",
+    choice1: "25",
+    choice2: "20",
+    choice3: "28",
+    choice4: "2",
+    answer:1
+},
+]
+
